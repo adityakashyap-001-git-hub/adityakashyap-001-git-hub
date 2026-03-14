@@ -19,6 +19,8 @@ Currently building projects in **Python, SQL, Power BI and Data Analytics**.
 
 ## 🛠 Skills
 
+🐍 Python | 🗄 SQL | 📊 Power BI | 📈 Excel
+
 **Programming & Querying**  
 Python (Pandas, NumPy, Matplotlib) | SQL | SQL Server  
 
