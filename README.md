@@ -48,3 +48,8 @@ GitHub: https://github.com/adityakashyap-001-git-hub
 ---
 
 ⭐ Check out my repositories to see my projects!
+
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakashyap-001-git-hub&show_icons=true&theme=radical)
