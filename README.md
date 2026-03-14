@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Kashyap
 
-<!--
-**adityakashyap-001-git-hub/adityakashyap-001-git-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGDM Student (Business Analytics & Marketing)  
+📊 Aspiring Data Analyst | Power BI | Python | SQL  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about transforming raw data into meaningful insights.  
+Currently building projects in **Python, SQL, Power BI and Data Analytics**.
+
+🔹 Interested in Data Analytics and Business Intelligence  
+🔹 Love creating dashboards and data-driven solutions  
+🔹 Learning advanced analytics and machine learning  
+
+---
+
+## 🛠 Skills
+
+**Programming & Querying**  
+Python (Pandas, NumPy, Matplotlib) | SQL | SQL Server  
+
+**Data Visualization**  
+Power BI | Excel | Dashboard Development  
+
+**Data Analysis**  
+Data Cleaning | EDA | Statistical Analysis  
+
+---
+
+## 📂 Projects
+
+📊 Motorola Smartphone Sales Analysis  
+Python | SQL | Power BI  
+
+📈 Amazon Sales Data Analysis  
+Python | Data Visualization  
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn: https://linkedin.com  
+GitHub: https://github.com/adityakashyap-001-git-hub  
+
+---
+
+⭐ Check out my repositories to see my projects!
